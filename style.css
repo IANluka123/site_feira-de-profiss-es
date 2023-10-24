@@ -1,4 +1,16 @@
-    header{
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    .Cabeçalho{
         background-color: #383D58;
         color: white;
+        
     }
+
+    .Cabeçalho-imagem{
+        width: 50%;
+     
+    }
+
+ 
