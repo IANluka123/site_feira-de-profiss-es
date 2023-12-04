@@ -13,6 +13,17 @@
         align-items: center;
         padding: 24px 0;
     }
+    nav a {
+        text-transform: uppercase;
+        color: white;
+        font-weight: bold;
+        font-size: 22px;
+        text-decoration: none;
+    }
+    nav a:hover {
+        color: #C78C19;
+        text-decoration: underline;
+    }
 
     .Cabeçalho-imagem{
         width: 50%;
